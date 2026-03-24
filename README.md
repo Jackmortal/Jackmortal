@@ -4,7 +4,8 @@ Computer Science student at UCF (Class of 2028), interested in robotics and auto
 
 ## Skills
 - Python, C
-- Raspberry Pi, OpenCV, MediaPipe
+- Raspberry Pi, I2C, Embedded Systems
+- Computer Vision (OpenCV, MediaPipe)
 - Git, Linux
 
 ## Projects 
@@ -13,6 +14,7 @@ Computer Science student at UCF (Class of 2028), interested in robotics and auto
 ## Currently Working On
 - Integrating OpenCV and MediaPipe into the bionic hand for real time gesture recognition.
 - Planning MK1 with increased DOF and sensor feedback.
+- Planning MK2 with custom built EMG control and personally trained models using TensorFlow Lite on top of MediaPipe.
 
 ## Contact
 - ja470582@ucf.edu
