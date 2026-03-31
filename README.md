@@ -7,6 +7,7 @@ Computer Science student at UCF (Class of 2028), interested in robotics and auto
 - Raspberry Pi, I2C, Embedded Systems
 - Computer Vision (OpenCV, MediaPipe)
 - Git, Linux
+- Fusion 360 (basic)
 
 ## Projects 
 - Bionic Hand MK0 (Prototype) - A bionic hand controlled via computer vision and machine learning using a Raspberry Pi, PCA9685, MG995 servos.
