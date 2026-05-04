@@ -13,6 +13,7 @@ Computer Science student at UCF (Class of 2028), interested in robotics and auto
 - Bionic Hand MK0 (Prototype) - A bionic hand controlled via computer vision and machine learning using a Raspberry Pi, PCA9685, MG995 servos.
 
 ## Currently Working On
+- Refactoring MK0 code and designing MK1 build in Fusion.
 - Planning MK1 with increased DOF and sensor feedback.
 - Planning MK2 with custom built EMG control and personally trained models using TensorFlow Lite on top of MediaPipe.
 
