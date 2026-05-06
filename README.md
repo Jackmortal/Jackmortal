@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Mail-blue?logoSize=auto)(ja470582@ucf.edu)
+
 # Hi, I'm Jack 👋
 
 Computer Science student at UCF (Class of 2028), interested in robotics and autonomous systems.
@@ -17,7 +19,5 @@ Computer Science student at UCF (Class of 2028), interested in robotics and auto
 - Planning MK1 with increased DOF and sensor feedback.
 - Planning MK2 with custom built EMG control and personally trained models using TensorFlow Lite on top of MediaPipe.
 
-## Contact
-![Static Badge](https://img.shields.io/badge/Mail-blue)
 
 
