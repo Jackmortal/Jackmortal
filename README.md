@@ -12,8 +12,6 @@ Focused on robotics, computer vision, and autonomous systems.
 
 ---
 
-## 🧠 About Me
-
 I build real-time robotics systems that combine computer vision, embedded hardware, and control systems. My current focus is developing a multi-DOF bionic hand controlled through live hand tracking and preparing it for developing custom gesture recognition and ASL (A–Z) sign language models using MediaPipe landmarks.
 
 ---
