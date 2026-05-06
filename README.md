@@ -18,5 +18,6 @@ Computer Science student at UCF (Class of 2028), interested in robotics and auto
 - Planning MK2 with custom built EMG control and personally trained models using TensorFlow Lite on top of MediaPipe.
 
 ## Contact
-- ja470582@ucf.edu
+![Static Badge](https://img.shields.io/badge/Mail-blue)
+
 
