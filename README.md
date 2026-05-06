@@ -54,7 +54,7 @@ Real-time robotic hand system using OpenCV and MediaPipe on a Raspberry Pi.
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Gesture%20Tracking-orange)
 
