@@ -1,5 +1,5 @@
 [![Email](https://img.shields.io/badge/email-ja470582@ucf.edu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ja470582@ucf.edu)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jacktepper33)
 # Hi, I'm Jack 👋
 
 Computer Science student at UCF (Class of 2028), interested in robotics and autonomous systems.
