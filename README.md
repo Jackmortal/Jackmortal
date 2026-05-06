@@ -58,6 +58,8 @@ Real-time robotic hand system using OpenCV and MediaPipe on a Raspberry Pi.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-orange?logo=autodesk)
+![Raspberry Pi Camera](https://img.shields.io/badge/Pi%20Camera-Vision%20Input-blue)
 
 
 
