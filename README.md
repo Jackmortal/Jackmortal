@@ -19,5 +19,11 @@ Computer Science student at UCF (Class of 2028), interested in robotics and auto
 - Planning MK1 with increased DOF and sensor feedback.
 - Planning MK2 with custom built EMG control and personally trained models using TensorFlow Lite on top of MediaPipe.
 
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+
 
 
