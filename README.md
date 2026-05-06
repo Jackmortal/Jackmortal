@@ -31,24 +31,21 @@ Real-time bionic hand controlled using **OpenCV + MediaPipe** on a Raspberry Pi.
 
 ---
 
-## 🧪 Completed Work
+## 🦾 Featured Project: Bionic Hand (MK0 → MK1)
 
-MK0 implemented a working real-time gesture-controlled robotic hand system.
+Real-time robotic hand system using OpenCV and MediaPipe on a Raspberry Pi.
 
-### Features:
-- Camera-based hand tracking using MediaPipe
-- Gesture interpretation from landmark data
-- Direct mapping to robotic hand actuation
-- Real-time servo control via Raspberry Pi + PCA9685
-- Proof-of-concept for vision-based robotic control
+### MK0 (Completed)
+- MediaPipe-based hand tracking
+- Servo actuation via PCA9685
+- MG995 servo control for finger motion
+- Vision-to-actuation mapping prototype
 
-## 🚧 Current Work
-
-### Bionic-Hand-Project (MK1)
-- Mechanical redesign in Fusion 360
-- Increased degrees of freedom (17 DOF target)
-- Improved stability and motion control
-- Refactoring control pipeline from MK0 for cleaner architecture
+### MK1 (In Progress)
+- Mechanical wrist and servo enclosure redesign in Fusion 360 using [Orca V1 Legacy Palm](https://www.orcahand.com/legacy/files)
+- Increased DOF (17 DOF target)
+- Improved motion stability and control pipeline
+- Preparing system for ML-based gesture recognition
 
 ---
 
