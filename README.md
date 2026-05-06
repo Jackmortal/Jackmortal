@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Mail-blue?logoSize=auto)(ja470582@ucf.edu)
+![Static Badge](https://img.shields.io/badge/Mail-blue?logoSize=auto)(mailto:ja470582@ucf.edu)
 
 # Hi, I'm Jack 👋
 
