@@ -54,12 +54,13 @@ Real-time robotic hand system using OpenCV and MediaPipe on a Raspberry Pi.
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-orange?logo=autodesk)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Gesture%20Tracking-orange)
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Embedded-red?logo=raspberrypi)
 ![Raspberry Pi Camera](https://img.shields.io/badge/Pi%20Camera-Vision%20Input-blue)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-orange?logo=autodesk)
 
 
 
