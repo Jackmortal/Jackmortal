@@ -1,4 +1,4 @@
-![Email](https://img.shields.io/badge/email-ja470582@ucf.edu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![Email](https://img.shields.io/badge/email-ja470582@ucf.edu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ja470582@ucf.edu)
 
 # Hi, I'm Jack 👋
 
