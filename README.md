@@ -16,19 +16,6 @@ I build real-time robotics systems that combine computer vision, embedded hardwa
 
 ---
 
-## 🦾 Projects
-
-### 🦾 Bionic-Hand-Project
-Real-time bionic hand controlled using **OpenCV + MediaPipe** on a Raspberry Pi.
-
-- Hand tracking via MediaPipe
-- Servo actuation using PCA9685
-- MG995 servo control for finger motion
-- Initial mapping between vision landmarks and motor output
-- Prepare system for future machine learning-based gesture recognition
-
----
-
 ## 🦾 Featured Project: Bionic Hand (MK0 → MK1)
 
 Real-time robotic hand system using OpenCV and MediaPipe on a Raspberry Pi.
