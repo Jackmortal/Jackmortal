@@ -20,13 +20,13 @@ I build real-time robotics systems that combine computer vision, embedded hardwa
 
 Real-time robotic hand system using OpenCV and MediaPipe on a Raspberry Pi.
 
-### MK0 (Completed)
+### MK0 (Finishing)
 - MediaPipe-based hand tracking
 - Servo actuation via PCA9685
 - MG995 servo control for finger motion
 - Vision-to-actuation mapping prototype
 
-### MK1 (In Progress)
+### MK1 (Planning)
 - Mechanical wrist and servo enclosure redesign in Fusion 360 using [Orca V1 Legacy Palm](https://www.orcahand.com/legacy/files)
 - Increased DOF (17 DOF target)
 - Improved motion stability and control pipeline
